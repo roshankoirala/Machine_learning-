@@ -16,17 +16,17 @@ possible. After then I have solved the problem using appropriate python library.
 
 The topics included are 
 
-1. Simple linear regrssion 
-2. Multiple linear regression 
-3. k-nearest neighbor 
-4. Logistic regression 
-5. Naive Bayes
-6. Linear discriminant analysis 
-7. Cross validation 
-8. Bootstrap 
-9. Hypothesis testing 
-10. Subset selection 
-11. Shrinkage method 
+01. Simple linear regrssion 
+02. Multiple linear regression 
+03. Logistic regression
+04. Shrinkage method 
+05. k-nearest neighbor 
+06. Naive Bayes
+07. Linear discriminant analysis 
+08. Hypothesis testing 
+09. Cross validation 
+10. Bootstrap 
+11. Subset selection 
 12. Neural network I
 13. Neural network II
 14. Decision tree 
