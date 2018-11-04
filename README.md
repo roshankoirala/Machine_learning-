@@ -1,6 +1,6 @@
 # Linear-regression-
 
-While learning machine learning by self studying I foud there are two great resources for the subject: 
+While learning machine learning by self study, I foud there are two great resources for the subject: 
 
 https://www-bcf.usc.edu/~gareth/ISL/
 
