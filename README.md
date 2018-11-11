@@ -20,15 +20,15 @@ The topics included are
 02. Multiple linear regression 
 03. Logistic regression
 04. Shrinkage method 
-05. k-nearest neighbor 
-06. Naive Bayes
-07. Linear discriminant analysis 
-08. Hypothesis testing 
-09. Cross validation 
-10. Bootstrap 
-11. Subset selection 
-12. Neural network I
-13. Neural network II
+05. Multiclass logistic regression 
+06. Neural network 
+07. k-nearest neighbor 
+08. Naive Bayes
+09. Linear discriminant analysis 
+10. Hypothesis testing 
+11. Cross validation 
+12. Bootstrap 
+13. Subset selection 
 14. Decision tree 
 15. Random forest 
 16. Support vector machine
