@@ -1,5 +1,9 @@
 # Linear-regression-
 
+TODO:
+Add a pdf file on each exercise elaborating the mathematics behind the algorithms. 
+
+
 While learning machine learning by self study, I foud there are two great resources for the subject: 
 
 https://www-bcf.usc.edu/~gareth/ISL/
