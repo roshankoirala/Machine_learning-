@@ -28,8 +28,9 @@ The topics included are
 06. Neural Network (EX4)
 07. Bias Variance Trade Off (EX5)
 08. Support Vector Machine (EX6)
-09. Principle Component Analysis (EX7) 
-10. k-Mean Clusturing (EX7)
-11. Anomaly Detection (EX8)
-12. Recommender System (EX8)
+09. Spam filter using SVM (EX6)
+10. Principle Component Analysis (EX7) 
+11. k-Mean Clusturing (EX7)
+12. Anomaly Detection (EX8)
+13. Recommender System (EX8)
 
