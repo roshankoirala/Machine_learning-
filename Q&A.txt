@@ -1,1 +1,3 @@
+# How to explain p-value to a non-technical person?
 
+In a sampling theory, we estimate the parameters about the population from a subset of the population called sample. The statistics calculated from the sample are a good indication of the corresponding parameter about the population. The null hypothesis can be that the sample statistics are just good for estimating the population parameters and the alternative hypothesis is that it is not. Now the p-value is the measure of how good is the sample statistics to the population parameter. The smaller that value of p, greater the chance that the alternative hypothesis is ture. 
