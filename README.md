@@ -1,5 +1,7 @@
 # Introduction  
 
+Python code on various machine learning models, loosely based on Andrew Ng's course. 
+
 The topics included are 
 
 01. Simple Linear Regrssion (EX1)
